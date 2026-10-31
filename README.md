@@ -5,7 +5,7 @@ a closed-form Beta-distribution result giving finite-sample guarantees on valida
 sizing for diagnostic-AI sensitivity claims.
 
 **Author**: Vinh C. Van (Independent Researcher)
-**Paper**: CC BY 4.0 manuscript (artifact: https://claude.ai/code/artifact/9065a11b-936e-4da9-b7db-eb5ba2fd5ba5).
+**Paper**: ["How Many Positive Cases Does Your Validation Set Need?" (Markdown Manuscript)](PAPER_B_threshold_validity.md) — CC BY 4.0 manuscript.
 Code in this repository: AGPL-3.0, dual-licensed
 (see [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)).
 
